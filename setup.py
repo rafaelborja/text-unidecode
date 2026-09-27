@@ -26,7 +26,7 @@ setup(
 
     package_dir={'': 'src'},
     packages=['text_unidecode'],
-    package_data={'text_unidecode': ['data.bin']},
+    package_data={'text_unidecode': ['data.bin', 'data.idx']},
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',

@@ -1,3 +1,4 @@
 include LICENSE
 include _dump.pl
+include _make_index.py
 include test_unidecode.py
